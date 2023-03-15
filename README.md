@@ -1,1 +1,3 @@
 # Image-Classification-of-100-sports
+
+Hundred sports image classification using convolutional neural networks and transfer learning. Training and testing the models with Adam and RMSprop optimizers, a number of 64 and 128 batches and for transfer learning three different architecture models were used. The three architecture models are MobileNetV2, VGG19 and ResNet101V2. Transfer Learning had way better accuracy and loss results than conventional neural networks. However in transfer learning ResNet101V2 had the highest accuracy rate at 94.19% with batch number 64 and MobileNetV2 had the lowest loss rate at 18.99% with batch number 128 both using Adam optimizers.
